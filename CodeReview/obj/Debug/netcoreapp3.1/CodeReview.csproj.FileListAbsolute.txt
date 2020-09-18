@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\bin\Debug\netcoreapp3.1\CodeReview.exe
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\bin\Debug\netcoreapp3.1\CodeReview.deps.json
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\bin\Debug\netcoreapp3.1\CodeReview.runtimeconfig.json
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\bin\Debug\netcoreapp3.1\CodeReview.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\bin\Debug\netcoreapp3.1\CodeReview.dll
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\bin\Debug\netcoreapp3.1\CodeReview.pdb
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.AssemblyInfo.cs
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.dll
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.pdb
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\CodeReview\obj\Debug\netcoreapp3.1\CodeReview.genruntimeconfig.cache

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\pask\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj": {
+    "C:\\Users\\Admin\\Desktop\\pask\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\pask\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj",
         "projectName": "Speedometer",
-        "projectPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj",
-        "packagesPath": "C:\\Users\\admin-julia.voronets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\pask\\LOGITpe20-CodeReview\\Speedometer\\Speedometer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\pask\\LOGITpe20-CodeReview\\Speedometer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "F:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin-julia.voronets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -57,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

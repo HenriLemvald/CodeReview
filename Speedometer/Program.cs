@@ -8,11 +8,15 @@ namespace Speedometer
         {
             /*The program asks for distance and time as input and displays the speed in kilometers per hour*/
             Console.WriteLine("Enter covered distance in km: ");
-            int speed = Console.ReadLine();
+            int distance = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Enter time spent in hour: ");
-            int time = Console.ReadLine();
+            int time = Int32.Parse(Console.ReadLine());
 
-            double kph = speed % time;
+            double kph = distance / time;
+
+
+
+            Console.WriteLine($"You drove {kph}kph");
 
 
         }

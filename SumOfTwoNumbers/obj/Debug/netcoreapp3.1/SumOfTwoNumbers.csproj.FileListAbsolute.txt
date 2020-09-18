@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.exe
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.deps.json
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\Admin\Desktop\pask\LOGITpe20-CodeReview\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.genruntimeconfig.cache
